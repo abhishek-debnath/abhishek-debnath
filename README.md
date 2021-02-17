@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhishek-debnath
-- 👀 I’m interested in front-end development
-- 🌱 I’m a quick learner 
+- 👀 I’m interested in front-end development.
+- 🌱 I’m a quick learner.
 - 💞️ I’m looking to collaborate on projects for UI deveploment so that I can contribute.
 - 📫 Please reach me at abhishek110894@gmail.com
 
